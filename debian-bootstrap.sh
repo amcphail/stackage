@@ -54,8 +54,11 @@ apt-get install -y \
     libpq-dev \
     libsdl2-dev \
     libsnappy-dev \
+    libsndfile1-dev \
     libsqlite3-dev \
     libssl-dev \
+    libtagc0-dev \
+    libtre-dev \
     libudev-dev \
     libusb-1.0-0-dev \
     libxau-dev \
